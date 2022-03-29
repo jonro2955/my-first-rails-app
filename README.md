@@ -14,6 +14,7 @@ This is a sample project to practice setting up a Ruby on Rails template project
 ### Acknowledgements
 
 [The Odin Project](https://www.theodinproject.com/)
+[Lesson page](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
 
 ### License
 
